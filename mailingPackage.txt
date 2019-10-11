@@ -1,0 +1,27 @@
+Mailing a package
+
+1. Grab a item
+   1.1. Go to the store
+    1.1.1. Go to the garage
+    1.1.2. get in you car
+      1.1.2.1. Start your car
+    1.1.3. drive to the store
+    1.1.4. Get out from the car
+    1.1.5. Purchase the item you want.
+  1.2. Drive back to home.
+2. Grab Packing stuff
+   2.1. Go to storeroom
+    2.1.1. grab box
+    2.1.2. Grab tape
+    2.1.3. Grab bubble tape
+3. Pack the item
+   3.1. Bubble wrap the item.
+   3.2. Tape the bubble wrap.
+4. Pack the box
+   4.1. Put the item in a box.
+   4.2. Tape out the box.
+5. Go to post office
+   5.1. Go to the garage
+    5.1.1. get in you car
+    5.1.2. Start your car
+  5.2. drive to the post office
